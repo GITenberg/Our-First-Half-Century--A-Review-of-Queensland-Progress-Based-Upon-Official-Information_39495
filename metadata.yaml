@@ -1,0 +1,29 @@
+_repo: Our-First-Half-Century--A-Review-of-Queensland-Progress-Based-Upon-Official-Information_39495
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Queensland
+    aliases:
+    - Queensland Government
+    - State of Queensland
+    gutenberg_agent_id: '40048'
+    url: http://www.gutenberg.org/2009/agents/40048
+description: Our natal year -- Natal year to Jubilee -- Our Jubilee year -- The primary
+  industries.
+gutenberg_issued: '2012-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Queensland -- History'
+- !lcc 'DU'
+title: 'Our First Half-Century: A Review of Queensland Progress Based Upon Official
+  Information'
+url: http://www.gutenberg.org/ebooks/39495
